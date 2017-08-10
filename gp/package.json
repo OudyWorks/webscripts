@@ -1,0 +1,21 @@
+{
+  "name": "@oudyworks/webscripts-gp",
+  "version": "1.0.0",
+  "description": "browser lib for Google API, to use on webpack and Vue SSR",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OudyWorks/webscripts.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "gp"
+  ],
+  "author": "Ayoub Oudmane <ayoub@oudmane.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OudyWorks/webscripts/issues"
+  },
+  "homepage": "https://github.com/OudyWorks/webscripts#readme"
+}
