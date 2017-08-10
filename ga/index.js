@@ -24,7 +24,7 @@ var id = 'webscripts-ga',
     ga = function () {
         if(!initialized)
             initialize();
-        return window[id](...arguments);
+        return window[id].apply(window[id], arguments);
     };
 
 module.exports = ga;

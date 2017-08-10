@@ -1,6 +1,6 @@
 {
   "name": "@oudyworks/webscripts-ga",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "browser lib for Google Analytics, to use on webpack and Vue SSR",
   "main": "index.js",
   "repository": {
