@@ -1,0 +1,28 @@
+{
+  "name": "@oudyworks/webscripts",
+  "version": "1.0.0",
+  "description": "bunch of libraries to use on the browser: fb, fbq ,ga, tw, gp...",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OudyWorks/webscripts.git"
+  },
+  "keywords": [
+    "fb",
+    "facebook",
+    "fbq",
+    "pixel",
+    "ga",
+    "google",
+    "analytics",
+    "plus",
+    "platform",
+    "twitter"
+  ],
+  "author": "Ayoub Oudmane <ayoub@oudmane.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OudyWorks/webscripts/issues"
+  },
+  "homepage": "https://github.com/OudyWorks/webscripts#readme"
+}
