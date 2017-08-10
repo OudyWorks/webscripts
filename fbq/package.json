@@ -1,0 +1,21 @@
+{
+  "name": "@oudyworks/webscripts-fbq",
+  "version": "1.0.0",
+  "description": "browser lib for Facebook Pixel, to use on webpack and Vue SSR",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OudyWorks/webscripts.git"
+  },
+  "keywords": [
+    "facebook",
+    "pixel",
+    "fbq"
+  ],
+  "author": "Ayoub Oudmane <ayoub@oudmane.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OudyWorks/webscripts/issues"
+  },
+  "homepage": "https://github.com/OudyWorks/webscripts#readme"
+}
