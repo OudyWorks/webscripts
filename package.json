@@ -1,6 +1,6 @@
 {
   "name": "@oudyworks/webscripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bunch of libraries to use on the browser: fb, fbq ,ga, tw, gp...",
   "main": "index.js",
   "repository": {
